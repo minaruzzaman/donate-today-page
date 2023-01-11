@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+}
+
+.heading {
+    background-image: url(/images/donation7.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.opening-msg {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 160px 340px 0;
+}
+
+.head-msg-2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 50px 400px 0;
+
+}
+
+.btn-primary {
+    background: #FF5959;
+    border-radius: 5px;
+    padding: 16px 21px;
+    margin-top: 30px;
+    margin-bottom: 185px;
+    margin-left: 680px;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.banner {}
+
+.donate-today {
+    margin-top: 130px;
+}
+
+.sec-title {
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    margin-bottom: 20px;
+}
+
+.dn-td-des {
+    text-align: center;
+    max-width: 600px;
+    margin-left: 450px;
+    margin-bottom: 50px;
+}
+
+.donation-amount-container {
+    display: flex;
+    gap: 22px;
+    margin-left: 340px;
+    margin-bottom: 60px;
+}
+
+.amount-box {
+    padding: 44px 24px;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    color: #707070;
+    font-family: 'Inter';
+    font-style: normal;
+}
+
+.amount-box-color {
+    padding: 44px 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    color: #FF5959;
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+}
+
+.d-t-txt {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #B3B3B3;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.line {
+    max-width: 765px;
+    color: #DADADA;
+    margin-left: 350px;
+}
