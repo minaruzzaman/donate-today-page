@@ -109,3 +109,80 @@
     color: #DADADA;
     margin-left: 350px;
 }
+
+.donate-heading {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+    color: #121212;
+}
+
+.donate-description {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #707070;
+    max-width: 691px;
+    margin-left: 375px;
+    margin-top: 20px;
+
+}
+
+.donate-type-container {
+    display: flex;
+    gap: 24px;
+    margin-left: 190px;
+    margin-top: 50px;
+
+}
+
+.donate-type-1 {
+    border: 352px 360px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+}
+
+.donate-type-2 {
+    border: 352px 360px;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+}
+
+.donate-type-3 {
+    border: 352px 360px;
+    border-radius: 5px;
+    background-color: peachpuff
+}
+
+.d-type1-heading {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #121212;
+    margin-left: 23px;
+}
+
+
+
+.d-type1-description {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #707070;
+    margin-left: 23px;
+    margin-right: 22px;
+    margin-bottom: 54px;
+    max-width: 315px;
+}
+
+.d-type1-img {
+    margin-top: 64px;
+    margin-left: 23px;
+    margin-bottom: 32px;
+}
